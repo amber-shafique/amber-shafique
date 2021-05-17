@@ -1,7 +1,14 @@
 ### Hi there, I'm Amber Shafique.👋
 
+### Software Engineer
+🔭 I’m currently working on Android, React js and .NET Core , Full Stack Web Development and Mobile Computing
+🌱 I’m currently learning Software Engineering Skills
+
+
 ### Education:
 BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
+
+
 
 <!--
 **amber-shafique/amber-shafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
