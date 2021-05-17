@@ -1,7 +1,7 @@
 ### Hi there, I'm Amber Shafique.👋
 
 ### Software Engineer
-* I’m currently working on Full Stack Web Development and Mobile Computing, Android, .NET Core , 
+* I’m currently working on Full Stack Web Development and Mobile Computing, Android, .NET Core.
 * I’m currently learning and practicing Software Engineering Skills
 
 
