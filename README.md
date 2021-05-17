@@ -1,6 +1,6 @@
 ### Hi there, I'm Amber Shafique.👋
 
-##Education:
+### Education:
 BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
 
 <!--
