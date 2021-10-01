@@ -1,12 +1,12 @@
 ### Hi there, I'm Amber Shafique.👋
 
-### Software Engineer
+<!-- ### Software Engineer
 * 🔭 I’m currently working on Full Stack Web Development and Mobile Computing, Android, .NET Core.
 * 🌱 I’m currently learning and practicing Software Engineering Skills.
 * 💬 Ask me about GitHub.
 
 ### Education:
-BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current
+BS SE from Punjab University College of Information Technology (PUCIT), Lahore - Current -->
 
 
 
