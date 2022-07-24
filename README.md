@@ -1,4 +1,7 @@
-### Hi there, I'm Amber Shafique.👋
+### Hi Geeks , I'm Amber Shafique.👋
+A passionate and Software Engineer and a self-learner from Pakistan who is eager to learn new and exciting things!
+Things I code with
+javascript typescript react angular nodejs expressjs mongodb php javascript dotnet java python mysql git git jira vscode
 
 <!-- ### Software Engineer
 * 🔭 I’m currently working on Full Stack Web Development and Mobile Computing, Android, .NET Core.
